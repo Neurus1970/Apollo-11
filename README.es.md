@@ -38,7 +38,7 @@ Código fuente original del ordenador guía del Apolo 11 (AGC) para el módulo d
 Por favor, lea [CONTRIBUTING.md][7] antes de abrir una pull request.
 
 ## Compilar
-Si está interesado en compilar el código fuente original, eche un vistazo a
+Si está interesado en compilar el código fuente original, eche un vistazo a (cuando usted pueda)
 [Virtual AGC][8].
 
 ## Atribuciones
